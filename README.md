@@ -62,7 +62,7 @@ While the dataset same, our implementation differs in preprocessing and methodol
 
 ## Results
 - **Linear SVM** performed best:
-  - Accuracy: **0.78.64**
+  - Accuracy: **78.64%**
   - Macro-F1: **0.7130**
 - Naive Bayes performed weaker than SVM
 - The majority vote model did not improve performance
